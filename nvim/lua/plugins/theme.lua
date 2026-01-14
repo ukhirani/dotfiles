@@ -1,0 +1,1 @@
+/home/ukhirani/.config/omarchy/current/theme/neovim.lua
