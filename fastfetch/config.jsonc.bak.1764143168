@@ -1,0 +1,81 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "~/.config/omarchy/branding/umang.txt",
+    "color": {
+      "1": "green"
+    },
+    "padding": {
+      "top": 2,
+      "right": 6,
+      "left": 2
+    }
+  },
+  "modules": [
+    "break",
+    {
+      "type": "custom",
+      "format": "{#90}┌────────────────────── About ───────────────────────┐"
+    },
+    {
+      "type": "custom",
+      "format": "   Name: Umang Hirani"
+    },
+    {
+      "type": "custom",
+      "format": "   Role: Software Developer"
+    },
+    {
+      "type": "custom",
+      "format": "󰑢   Study: Marwadi University (ICT)"
+    },
+    {
+      "type": "custom",
+      "format": "   Focus: Terminal apps · Audio Programming · AI/ML "
+    },
+    {
+      "type": "custom",
+      "format": "󰅩   Languages: C++ · Python · JavaScript"
+    },
+    {
+      "type": "custom",
+      "format": "{#90}└────────────────────────────────────────────────────┘"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "{#90}┌──────────────────── Learning ──────────────────────┐"
+    },
+    {
+      "type": "custom",
+      "format": "󰟷   Languages: Go · Rust"
+    },
+    {
+      "type": "custom",
+      "format": "󰣖   Practicing: Data Structures & Algorithms"
+    },
+    {
+      "type": "custom",
+      "format": "{#90}└────────────────────────────────────────────────────┘"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "{#90}┌────────────────────── Flex ────────────────────────┐"
+    },
+    {
+      "type": "custom",
+      "format": "󰣇   OS: Arch BTW"
+    },
+    {
+      "type": "custom",
+      "format": "   Editor: Neovim BTW"
+    },
+    {
+      "type": "custom",
+      "format": "{#90}└────────────────────────────────────────────────────┘"
+    },
+    "break"
+  ]
+}
